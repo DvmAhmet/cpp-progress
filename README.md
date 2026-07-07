@@ -12,3 +12,14 @@ Spent some time today reviewing the core mechanics of C++ to get my muscle memor
 - Nested loops: Created a basic star pattern generator in the console.
 
 Trying to keep it simple and stay consistent.
+
+## Day 2: Functions, Arrays, and Layout Logic
+
+Continued the review by moving into more structured data types and code organization. Wrote 6 different programs to cover functions, memory references, and basic multidimensional structures.
+
+What I did today:
+- Functions & Overloading: Practiced basic function definitions and implemented function overloading to calculate areas for different geometric shapes (square, rectangle, triangle).
+- Arrays & Data Analysis: Built a basic program to store grades in an array, calculate the average, and find the maximum value.
+- References & Parameters: Implemented a swap function using memory references (`&`) and experimented with default parameters for tax calculations.
+- 2D Arrays (Matrices): Created a 3x3 matrix and wrote code to calculate the sum of its main diagonal elements.
+- String Manipulation: Used built-in string methods like `.length()`, `.substr()`, and `.find()` to filter and analyze text data.
