@@ -23,3 +23,12 @@ What I did today:
 - References & Parameters: Implemented a swap function using memory references (`&`) and experimented with default parameters for tax calculations.
 - 2D Arrays (Matrices): Created a 3x3 matrix and wrote code to calculate the sum of its main diagonal elements.
 - String Manipulation: Used built-in string methods like `.length()`, `.substr()`, and `.find()` to filter and analyze text data.
+
+## Day 3: Pointers and Dynamic Memory
+
+Shifted focus toward how C++ handles memory directly. Moved from static stack memory to heap allocation and pointer manipulation.
+
+What I did today:
+- Pointer Arithmetic: Accessed and printed array elements directly using pointer notation `*(notlar + i)` instead of standard indexing.
+- Dynamic Memory Allocation: Used the `new` operator to allocate an array size determined at runtime by user input.
+- Memory Cleanup: Practiced proper memory management by using `delete[]` to free dynamic allocations and resetting pointers to `nullptr` to avoid leaks.
