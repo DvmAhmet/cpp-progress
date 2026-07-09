@@ -32,3 +32,12 @@ What I did today:
 - Pointer Arithmetic: Accessed and printed array elements directly using pointer notation `*(notlar + i)` instead of standard indexing.
 - Dynamic Memory Allocation: Used the `new` operator to allocate an array size determined at runtime by user input.
 - Memory Cleanup: Practiced proper memory management by using `delete[]` to free dynamic allocations and resetting pointers to `nullptr` to avoid leaks.
+
+ ## Day 4: Structures and Object-Oriented Programming (OOP)
+
+Introduced custom data structures and the fundamentals of Object-Oriented Programming, focusing on data encapsulation, classes, and member protection.
+
+What I did today:
+- Structures (Struct): Created a custom structure to group related attributes (title, author, page count) and managed an array of structures using standard I/O operations.
+- Classes & Encapsulation: Built a class with private data members to secure data from direct external access.
+- Constructors & Methods: Practiced initializing object instances using class constructors and defining public member functions to display state.
