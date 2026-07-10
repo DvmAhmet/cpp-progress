@@ -41,3 +41,14 @@ What I did today:
 - Structures (Struct): Created a custom structure to group related attributes (title, author, page count) and managed an array of structures using standard I/O operations.
 - Classes & Encapsulation: Built a class with private data members to secure data from direct external access.
 - Constructors & Methods: Practiced initializing object instances using class constructors and defining public member functions to display state.
+
+  
+  # Day 5: OOP Inheritance and Method Overriding
+
+Explored core Object-Oriented Programming concepts further by focusing on class relationships, code reusability, and behavior modification.
+
+What I did today:
+- Inheritance: Created a base class (`Hayvan`) and a derived class (`Kopek`) to implement hierarchical relationships.
+- Access Specifiers: Explored the `protected` keyword to allow derived classes access to base class member variables while keeping them hidden from the outside.
+- Constructor Delegation: Practiced initializing base class attributes from a derived class constructor using initialization lists.
+- Method Overriding: Implemented method overriding by redefining base class behaviors in the derived class to change execution outputs.
