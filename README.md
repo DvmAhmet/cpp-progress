@@ -42,8 +42,7 @@ What I did today:
 - Classes & Encapsulation: Built a class with private data members to secure data from direct external access.
 - Constructors & Methods: Practiced initializing object instances using class constructors and defining public member functions to display state.
 
-  
-  # Day 5: OOP Inheritance and Method Overriding
+## Day 5: OOP Inheritance and Method Overriding
 
 Explored core Object-Oriented Programming concepts further by focusing on class relationships, code reusability, and behavior modification.
 
