@@ -51,3 +51,13 @@ What I did today:
 - Access Specifiers: Explored the `protected` keyword to allow derived classes access to base class member variables while keeping them hidden from the outside.
 - Constructor Delegation: Practiced initializing base class attributes from a derived class constructor using initialization lists.
 - Method Overriding: Implemented method overriding by redefining base class behaviors in the derived class to change execution outputs.
+
+## Day 6: Conceptualizing Linked Lists
+
+Focused entirely on understanding foundational data structures today, specifically Singly Linked Lists, without running new code. Analyzed how data points connect dynamically in memory.
+
+What I studied today:
+- Node Design: Looked at how a `struct` can combine a data variable with a pointer referencing the next element.
+- Pointer Linking: Reviewed the mechanism of chaining isolated memory allocations together sequentially using pointers.
+- Traversal Logic: Analyzed how a temporary pointer moves through a chain inside a `while` loop until it encounters `nullptr`.
+- Manual Cleanup: Reviewed the process of explicitly deallocating each individual node from the heap to prevent memory leaks.
