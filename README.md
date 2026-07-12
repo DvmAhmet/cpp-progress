@@ -61,3 +61,13 @@ What I studied today:
 - Pointer Linking: Reviewed the mechanism of chaining isolated memory allocations together sequentially using pointers.
 - Traversal Logic: Analyzed how a temporary pointer moves through a chain inside a `while` loop until it encounters `nullptr`.
 - Manual Cleanup: Reviewed the process of explicitly deallocating each individual node from the heap to prevent memory leaks.
+
+## Day 7: Linked List Manipulation - Prepending Nodes
+
+Moved from theoretical structure design to practical implementation by actively modifying a Singly Linked List configuration at runtime.
+
+What I did today:
+- Prepending Logic: Successfully implemented node insertion at the beginning of a linked list by rerouting pointer addresses.
+- Head Pointer Reassignment: Tracked the original starting node while safely shifting the main list entry pointer to the newly created front node.
+- Structural Traversal: Iterated through the dynamically extended structure to verify the custom insertion order sequentially.
+- Memory Deallocation: Explicitly freed all dynamic heap memory allocated for both the initial structure and the new front element.
