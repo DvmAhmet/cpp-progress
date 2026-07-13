@@ -71,3 +71,10 @@ What I did today:
 - Head Pointer Reassignment: Tracked the original starting node while safely shifting the main list entry pointer to the newly created front node.
 - Structural Traversal: Iterated through the dynamically extended structure to verify the custom insertion order sequentially.
 - Memory Deallocation: Explicitly freed all dynamic heap memory allocated for both the initial structure and the new front element.
+
+  ## Day 8: Linked Lists - Appending & Deletion
+
+Expanded linked list operations by adding more manipulation features.
+- Implemented appending logic to add a new node to the end of the list.
+- Created a search and delete mechanism to remove a specific node by its value.
+- Practiced updating pointer connections and freeing memory after structural changes.
