@@ -78,3 +78,10 @@ Expanded linked list operations by adding more manipulation features.
 - Implemented appending logic to add a new node to the end of the list.
 - Created a search and delete mechanism to remove a specific node by its value.
 - Practiced updating pointer connections and freeing memory after structural changes.
+
+  ## Day 9: Stacks (LIFO) & STL Stack
+
+Explored the Stack data structure and compared manual implementation with C++ Standard Template Library (STL).
+- Built a custom Stack from scratch using linked list nodes with manual `push` and `pop` functions.
+- Re-implemented the same logic using the built-in `<stack>` container to understand STL abstraction.
+- Practiced LIFO (Last In, First Out) operations and proper memory management during stack deletions.
