@@ -85,3 +85,10 @@ Explored the Stack data structure and compared manual implementation with C++ St
 - Built a custom Stack from scratch using linked list nodes with manual `push` and `pop` functions.
 - Re-implemented the same logic using the built-in `<stack>` container to understand STL abstraction.
 - Practiced LIFO (Last In, First Out) operations and proper memory management during stack deletions.
+
+  ## Day 10: Queues (FIFO)
+
+Explored the Queue data structure and its implementation using dynamic allocation.
+- Built a custom Queue from scratch using linked list nodes with `enqueue` and `dequeue` functions.
+- Managed separate head (`ilk`) and tail (`son`) pointers to achieve efficient operations.
+- Handled edge cases like empty tracking and proper memory clearing during deletions.
