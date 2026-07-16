@@ -92,3 +92,10 @@ Explored the Queue data structure and its implementation using dynamic allocatio
 - Built a custom Queue from scratch using linked list nodes with `enqueue` and `dequeue` functions.
 - Managed separate head (`ilk`) and tail (`son`) pointers to achieve efficient operations.
 - Handled edge cases like empty tracking and proper memory clearing during deletions.
+
+  ## Day 11: Recursion 
+
+Explored functions that call themselves to break down complex problems into smaller sub-problems.
+- Implemented a recursive summation function to calculate cumulative sums.
+- Developed a recursive Fibonacci sequence generator to analyze mathematical progressions.
+- Explored recursive call stacks and analyzed the performance/computational limits of basic recursive algorithms.
