@@ -99,3 +99,10 @@ Explored functions that call themselves to break down complex problems into smal
 - Implemented a recursive summation function to calculate cumulative sums.
 - Developed a recursive Fibonacci sequence generator to analyze mathematical progressions.
 - Explored recursive call stacks and analyzed the performance/computational limits of basic recursive algorithms.
+
+  ## Day 12: Sorting Algorithms & STL
+
+Explored algorithmic sorting techniques, comparing manual implementation with the C++ Standard Template Library (STL).
+- Built a custom Bubble Sort algorithm from scratch to understand nested loops, array traversal, and element swapping mechanics.
+- Implemented `std::sort` from the `<algorithm>` library for highly optimized, production-level sorting.
+- Used `<functional>` (`std::greater<int>()`) to modify the default sorting behavior and understand basic functional objects.
