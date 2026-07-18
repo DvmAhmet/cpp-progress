@@ -106,3 +106,11 @@ Explored algorithmic sorting techniques, comparing manual implementation with th
 - Built a custom Bubble Sort algorithm from scratch to understand nested loops, array traversal, and element swapping mechanics.
 - Implemented `std::sort` from the `<algorithm>` library for highly optimized, production-level sorting.
 - Used `<functional>` (`std::greater<int>()`) to modify the default sorting behavior and understand basic functional objects.
+
+## Day 13: Search Algorithms (Binary Search)
+
+Moved into efficient searching mechanisms for sorted data structures.
+- Implemented a custom Iterative Binary Search algorithm in C++ to find target elements.
+- Managed search spaces dynamically by adjusting `start`, `end`, and `mid` pointers.
+- Analyzed the $O(\log n)$ time complexity and its massive performance advantage over linear searching.
+- Learned about potential Integer Overflow bugs in midpoint calculations and how to prevent them using safe arithmetic.
