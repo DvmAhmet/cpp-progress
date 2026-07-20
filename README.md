@@ -114,3 +114,10 @@ Moved into efficient searching mechanisms for sorted data structures.
 - Managed search spaces dynamically by adjusting `start`, `end`, and `mid` pointers.
 - Analyzed the $O(\log n)$ time complexity and its massive performance advantage over linear searching.
 - Learned about potential Integer Overflow bugs in midpoint calculations and how to prevent them using safe arithmetic.
+
+  ## Day 14: Two Pointers Technique (Sorted Two Sum)
+
+Implemented the highly efficient Two Pointers approach to solve the Two Sum problem on a sorted array.
+- Optimized the search time complexity from $O(n^2)$ (brute-force) to $O(n)$ (linear time) by leveraging the pre-sorted nature of the array.
+- Managed dynamic array bounds using synchronized `left` and `right` indices to efficiently converge on the target sum.
+- Maintained strict memory efficiency with $O(1)$ auxiliary space complexity.
